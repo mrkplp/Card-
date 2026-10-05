@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(250, 212, 116);
+}
+.profession {
+  color: rgb(136, 190, 190);
+  font-size: large;
+  font-weight: 300;
+  text-align: center;
+}
+#name {background-color: blanchedalmond;}
+button:hover {background-color: red;}
